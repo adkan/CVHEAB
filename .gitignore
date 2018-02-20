@@ -1,0 +1,7 @@
+# Archivo IntelliJ Idea #
+######################
+SampleApp.iml
+target/
+.idea/
+
+
