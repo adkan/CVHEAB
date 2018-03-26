@@ -98,10 +98,6 @@ public class Student implements Serializable {
         this.country = country;
     }
 
-    public boolean isF                                                                                                                                                                                                                                                                                              irstAttempt() {
-        return firstAttempt;
-    }
-
     public void setFirstAttempt(boolean firstAttempt) {
         this.firstAttempt = firstAttempt;
     }
