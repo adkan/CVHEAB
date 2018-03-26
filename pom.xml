@@ -12,7 +12,7 @@
         <spring.version>4.3.7.RELEASE</spring.version>
         <hibernate.version>4.2.2.Final</hibernate.version>
         <hibernate.validator.version>5.1.2.Final</hibernate.validator.version>
-        <javax.validation.version>1.1.0.Final</javax.validation.version>011
+        <javax.validation.version>1.1.0.Final</javax.validation.version>
         <javax_servlet.version>3.1.0</javax_servlet.version>
         <junit.version>4.11</junit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
